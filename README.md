@@ -1,4 +1,8 @@
 # Hi, I'm Alberto 👨‍💻
+Soy estudiante de último curso del grado de Ingeniería Informática de la UGR.
+
+En este repositorio podrás encontrar muchos de mis proyectos prácticos realizados en diversas asignaturas de la carrera,
+además de otros proyectos personales.
 ![Dwight1](https://github.com/4lverto/4lverto/assets/159908185/55989226-83da-4613-a268-2ce1bb55d0ca)
 ___
 Encuéntrame en:
