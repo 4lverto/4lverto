@@ -12,4 +12,4 @@ Encuéntrame en:
 
 [![4lverto's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lverto)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=4lverto)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=4lverto)](https://github.com/anuraghazra/github-readme-stats)
