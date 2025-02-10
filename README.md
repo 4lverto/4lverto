@@ -33,8 +33,7 @@ Soy un estudiante apasionado por la tecnología, el desarrollo de software y el 
 Además de la tecnología, me encanta el **deporte**, ya que me ayuda a mantenerme activo y disciplinado.  
 ___
 Encuéntrame en:
-- [Instagram](https://www.instagram.com/4lverto)
-- [Twitter](https://twitter.com/4lverto)
+- [LinkedIn](in/alberto-ortega-vilchez-a8258a32b)
 
 [![4lverto's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lverto)](https://github.com/anuraghazra/github-readme-stats)
 
