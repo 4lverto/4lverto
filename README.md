@@ -1,18 +1,18 @@
 # Hi, I'm Alberto 👨‍💻
-### 🚀 Ingeniería Informática en la UGR
+### 🚀 Ingeniero Informático por la UGR
 
-Soy un estudiante apasionado por la tecnología, el desarrollo de software y el análisis de datos. Estoy en la etapa final de mi carrera y actualmente busco una empresa en la que pueda realizar mis **prácticas profesionales** para completar mi formación académica. Me motiva el aprendizaje continuo y el descubrimiento de nuevas tecnologías.  
+Soy una persona apasionada por la tecnología, el desarrollo de software y el análisis de datos. Me he graduado recientemente y estoy teniendo mis primeras tomas de contacto con el mundo laboral. Me motiva el aprendizaje continuo y el descubrimiento de nuevas tecnologías.  
 
 📌 **Idiomas:**  
-- 🇬🇧 Inglés (nivel avanzado)  
-- 🇫🇷 Francés (nivel intermedio)  
+- 🇬🇧 Inglés - B2 
+- 🇫🇷 Francés (nivel básico)  
 
 ## 🛠️ Tecnologías y herramientas con las que he trabajado  
 ### 🔹 **Lenguajes de programación**  
 - C, C++  
 - Java, JADE  
 - Python (Flask, Django)  
-- JavaScript, PHP  
+- JavaScript, TypeScript, PHP  
 - HTML, CSS  
 
 ### 🔹 **Bases de datos y herramientas de análisis de datos**  
@@ -20,7 +20,8 @@ Soy un estudiante apasionado por la tecnología, el desarrollo de software y el 
 - Power BI, Pentaho, Mondrian, Excel  
 
 ### 🔹 **Frameworks y herramientas de desarrollo**  
-- React Native  
+- React (Nextjs)
+- NodeJS (Nestjs)
 - OpenGL  
 - SCRUM, JIRA  
 - Git, GitHub  
