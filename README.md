@@ -13,7 +13,7 @@ Soy una persona apasionada por la tecnología, el desarrollo de software y el an
 - Java, JADE  
 - Python (Flask, Django)  
 - JavaScript, TypeScript, PHP  
-- HTML, CSS  
+- HTML, CSS
 
 ### 🔹 **Bases de datos y herramientas de análisis de datos**  
 - SQL, PostgreSQL  
@@ -22,6 +22,7 @@ Soy una persona apasionada por la tecnología, el desarrollo de software y el an
 ### 🔹 **Frameworks y herramientas de desarrollo**  
 - React (Nextjs)
 - NodeJS (Nestjs)
+- TailwindCSS
 - OpenGL  
 - SCRUM, JIRA  
 - Git, GitHub  
