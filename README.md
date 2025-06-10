@@ -9,7 +9,8 @@ Soy una persona apasionada por la tecnología, el desarrollo de software y el an
 
 ## 🛠️ Tecnologías y herramientas con las que he trabajado  
 ### 🔹 **Lenguajes de programación**  
-- C, C++  
+- C, C++
+- Golang
 - Java, JADE  
 - Python (Flask, Django)  
 - JavaScript, TypeScript, PHP  
