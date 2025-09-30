@@ -1,7 +1,7 @@
 # Hi, I'm Alberto 👨‍💻
 ### 🚀 Ingeniero Informático por la UGR
 
-Soy una persona apasionada por la tecnología, el desarrollo de software y el análisis de datos. Me he graduado recientemente y estoy teniendo mis primeras tomas de contacto con el mundo laboral. Me motiva el aprendizaje continuo y el descubrimiento de nuevas tecnologías.  
+Soy una persona apasionada por la tecnología, el desarrollo y arquitectura de software, y el análisis de datos. Me motiva el aprendizaje contínuo y el descubrimiento y aplicación de nuevas tecnologías.
 
 📌 **Idiomas:**  
 - 🇬🇧 Inglés - B2 
@@ -11,18 +11,19 @@ Soy una persona apasionada por la tecnología, el desarrollo de software y el an
 ### 🔹 **Lenguajes de programación**  
 - C, C++
 - Golang
-- Java, JADE  
-- Python (Flask, Django)  
-- JavaScript, TypeScript, PHP  
+- Java, JADE
+- Python (Flask, Django, FastAPI)
+- JavaScript, TypeScript, PHP
 - HTML, CSS
 
 ### 🔹 **Bases de datos y herramientas de análisis de datos**  
-- SQL, PostgreSQL  
+- SQL, PostgreSQL, Firestore  
 - Power BI, Pentaho, Mondrian, Excel  
 
 ### 🔹 **Frameworks y herramientas de desarrollo**  
 - React (Nextjs)
 - NodeJS (Nestjs)
+- Flutter
 - TailwindCSS
 - OpenGL  
 - SCRUM, JIRA  
@@ -30,7 +31,7 @@ Soy una persona apasionada por la tecnología, el desarrollo de software y el an
 
 ## 🎯 Habilidades y valores  
 ✔️ **Trabajo en equipo**: Me gusta colaborar con otros y aprender de mis compañeros.  
-✔️ **Actitud de aprendizaje**: Siempre estoy dispuesto a mejorar mis habilidades y adquirir nuevos conocimientos.    
+✔️ **Actitud de aprendizaje**: Siempre estoy dispuesto a mejorar mis habilidades y adquirir nuevos conocimientos.
 
 ## 🎾 Otras aficiones  
 Además de la tecnología, me encanta el **deporte**, ya que me ayuda a mantenerme activo y disciplinado.  
