@@ -21,8 +21,8 @@ Soy una persona apasionada por la tecnología, el desarrollo y arquitectura de s
 - Power BI, Pentaho, Mondrian, Excel  
 
 ### 🔹 **Frameworks y herramientas de desarrollo**  
-- React (Nextjs)
-- NodeJS (Nestjs)
+- React
+- NodeJS
 - Flutter
 - TailwindCSS
 - OpenGL  
