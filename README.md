@@ -1,7 +1,7 @@
 # Hi, I'm Alberto 👨‍💻
 ### 🚀 Ingeniero Informático por la UGR
 
-Soy una persona apasionada por la tecnología, el desarrollo y arquitectura de software, y el análisis de datos. Me motiva el aprendizaje contínuo y el descubrimiento y aplicación de nuevas tecnologías.
+Soy una persona apasionada por la tecnología, el desarrollo y arquitectura de software, y el análisis de datos. Me motiva el aprendizaje contínuo y el descubrimiento y aplicación de nuevas tecnologías. Aprecio las best practices y el código limpio.
 
 📌 **Idiomas:**  
 - 🇬🇧 Inglés - B2 
@@ -38,5 +38,3 @@ Además de la tecnología, me encanta el **deporte**, ya que me ayuda a mantener
 ___
 Encuéntrame en:
 - [LinkedIn](in/alberto-ortega-vilchez-a8258a32b)
-
-[![4lverto's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lverto)](https://github.com/anuraghazra/github-readme-stats)
