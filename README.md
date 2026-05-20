@@ -39,4 +39,4 @@ ___
 Encuéntrame en:
 - [LinkedIn](in/alberto-ortega-vilchez-a8258a32b)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=4lverto&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4lverto)](https://github.com/anuraghazra/github-readme-stats)
