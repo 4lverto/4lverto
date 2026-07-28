@@ -1,40 +1,24 @@
-# Hi, I'm Alberto 👨‍💻
-### 🚀 Ingeniero Informático por la UGR
+# Alberto Ortega
 
-Soy una persona apasionada por la tecnología, el desarrollo y arquitectura de software, y el análisis de datos. Me motiva el aprendizaje contínuo y el descubrimiento y aplicación de nuevas tecnologías. Aprecio las best practices y el código limpio.
+Software Engineer from UGR.
 
-📌 **Idiomas:**  
-- 🇬🇧 Inglés - B2 
-- 🇫🇷 Francés (nivel básico)  
+I enjoy building software that is reliable, maintainable and easy to evolve.
 
-## 🛠️ Tecnologías y herramientas con las que he trabajado  
-### 🔹 **Lenguajes de programación**  
-- C, C++
-- Golang
-- Java, JADE
-- Python (Flask, Django, FastAPI)
-- JavaScript, TypeScript, PHP
-- HTML, CSS
+Most of my work revolves around backend development, APIs, software architecture and data. From time to time, I also enjoy working on frontend applications and experimenting with computer vision.
 
-### 🔹 **Bases de datos y herramientas de análisis de datos**  
-- SQL, PostgreSQL, Firestore  
-- Power BI, Pentaho, Mondrian, Excel  
+### What matters to me
 
-### 🔹 **Frameworks y herramientas de desarrollo**  
-- React
-- NodeJS
-- Flutter
-- TailwindCSS
-- OpenGL  
-- SCRUM, JIRA  
-- Git, GitHub  
+- Writing clean, readable code
+- Designing scalable systems
+- Learning something new
+- Building software with long-term maintainability in mind
 
-## 🎯 Habilidades y valores  
-✔️ **Trabajo en equipo**: Me gusta colaborar con otros y aprender de mis compañeros.  
-✔️ **Actitud de aprendizaje**: Siempre estoy dispuesto a mejorar mis habilidades y adquirir nuevos conocimientos.
+## Currently
 
-## 🎾 Otras aficiones  
-Además de la tecnología, me encanta el **deporte**, ya que me ayuda a mantenerme activo y disciplinado.  
-___
-Encuéntrame en:
-- [LinkedIn](in/alberto-ortega-vilchez-a8258a32b)
+- Improving my English (Cambridge C1)
+
+---
+
+📍 Spain
+
+🔗 LinkedIn: https://linkedin.com/in/alberto-ortega-vilchez-a8258a32b
